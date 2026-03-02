@@ -29,7 +29,7 @@ public class KursController : Controller
 }
 
 
-
+------------------------------------------------------------------------------------
 
 
 
@@ -51,7 +51,7 @@ public class KursController : Controller
     }
 </body>
 </html>
-
+--------------------------------------------------------------------------------
 <!DOCTYPE html>
 <html lang="en">
 <head>
